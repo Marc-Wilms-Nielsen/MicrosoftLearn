@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise - Complete a challenge activity for nested iteration and selection statements", "Exercise - Complete a challenge activity for nested iteration and selection statements.csproj", "{170E3AD8-EECD-DA36-36CF-CA5D14D9700D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170E3AD8-EECD-DA36-36CF-CA5D14D9700D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170E3AD8-EECD-DA36-36CF-CA5D14D9700D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170E3AD8-EECD-DA36-36CF-CA5D14D9700D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170E3AD8-EECD-DA36-36CF-CA5D14D9700D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA405B2B-1303-40EB-9B7B-1AB242F0E7D1}
+	EndGlobalSection
+EndGlobal
